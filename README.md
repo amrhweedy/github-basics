@@ -1,2 +1,2 @@
-#Git and GitHub Basics
+# Git and GitHub Basics
 This is the basic information about git and GitHub
